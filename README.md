@@ -1,2 +1,2 @@
-# vending-machine-fsm-artix7
-FSM-based Vending Machine controller in Verilog and Artix-7 constraints.
+Vending-Machine-FSM-using-Verilog-HDL
+FSM-based Multi-Product Vending Machine with Automatic Change Generation in Verilog HDL (Artix-7)
